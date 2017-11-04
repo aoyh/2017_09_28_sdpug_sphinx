@@ -1,0 +1,7 @@
+name: rise-sphinx
+channels:
+  - damianavila82
+  - conda-forge
+dependencies:
+  - python
+  - rise
